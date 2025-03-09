@@ -1,0 +1,9 @@
+Using node version -22
+
+install dependencies
+npm -i
+
+for run project 
+npm start
+
+port = 2000
